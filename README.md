@@ -1,2 +1,2 @@
-# qsmf
-Portfolio analytics for the queen's student managed fund
+# QSMF
+Portfolio analytics for the Queen's student managed fund
